@@ -1,6 +1,12 @@
+
+# ---- numeric stack (pin ke wheel stabil)
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.4.2
+
+# ---- visualization & dashboard
 plotly==5.24.1
 dash==2.17.1
+
+# ---- production server
 gunicorn==21.2.0
